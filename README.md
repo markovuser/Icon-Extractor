@@ -19,8 +19,8 @@
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Icon-Extractor/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Icon-Extractor/releases/latest/download/File-List-setup.exe)<br>
-[<img src="https://raw.githubusercontent.com/markovuser/Icon-Extractor/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Icon-Extractor/releases/latest/download/File.List.zip)
+[<img src="https://raw.githubusercontent.com/markovuser/Icon-Extractor/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Icon-Extractor/releases/latest/download/Icon-Extractor-setup.exe)<br>
+[<img src="https://raw.githubusercontent.com/markovuser/Icon-Extractor/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Icon-Extractor/releases/latest/download/Icon Extractor.zip)
 
 </div>
 <div align="center">
