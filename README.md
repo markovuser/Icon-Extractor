@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div align="center">
-  <img src=https://raw.githubusercontent.com/markovuser/Icon-Extractor/main/assets/Icon Extractor.png width="250"><br><br>
+  <img src=https://github.com/markovuser/Icon-Extractor/blob/main/assets/Icon%20Extractor.png width="250"><br><br>
 </div>
 <hr>
 <div align="center">
